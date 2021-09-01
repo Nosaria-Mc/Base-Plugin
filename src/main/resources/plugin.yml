@@ -1,6 +1,6 @@
-main: fr.oximov.nosaria.lobby.Main
-version: 2.0.0
-name: Nosaria_Lobby
+main: fr.oximov.nosaria.template.Main
+version: 0.0.1
+name: Nosaria_Template
 author: Oximov
 load: STARTUP
 commands:
