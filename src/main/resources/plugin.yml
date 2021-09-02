@@ -1,6 +1,6 @@
-main: fr.oximov.nosaria.template.Main
+main: fr.oximov.template.Main
 version: 0.0.1
-name: Nosaria_Template
+name: Base_Template
 author: Oximov
 load: STARTUP
 commands:
