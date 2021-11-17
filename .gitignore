@@ -1,2 +1,6 @@
-target/*
-!/target/*.jar
+target
+.github
+.settings
+.project
+.classpath
+build
